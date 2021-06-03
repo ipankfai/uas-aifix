@@ -45,6 +45,6 @@ Go to Github pages.
 This software is released under the MIT License, see LICENSE.
 
 # Authors
-- karaage0703
+- AhmadRifai
 - [sugyan](https://github.com/sugyan/face-collector) (face_crop.py)
 
