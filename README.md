@@ -2,11 +2,11 @@
 
 Image processing adalah suatu bentuk pengolahan atau pemrosesan sinyal dengan input berupa gambar (image) dan ditransformasikan menjadi gambar lain sebagai keluarannya dengan teknik tertentu. Image processing dilakukan untuk memperbaiki kesalahan data sinyal gambar yang terjadi akibat transmisi dan selama akuisisi sinyal, serta untuk meningkatkan kualitas penampakan gambar agar lebih mudah diinterpretasi oleh sistem penglihatan manusia baik dengan melakukan manipulasi dan juga penganalisisan terhadap gambar.
 
-<img src="https://raw.githubusercontent.com/wiki/karaage0703/python-image-processing/0005.jpg" alt="image" width="320" height="240">
-<img src="https://raw.githubusercontent.com/wiki/karaage0703/python-image-processing/0006.jpg" alt="image" width="320" height="240">
-<img src="https://raw.githubusercontent.com/wiki/karaage0703/python-image-processing/0008.jpg" alt="image" width="320" height="240">
-<img src="https://raw.githubusercontent.com/wiki/karaage0703/python-image-processing/0010.jpg" alt="image" width="320" height="240">
-<img src="https://raw.githubusercontent.com/wiki/karaage0703/python-image-processing/0009.png" alt="image" width="640" height="300">
+<img src="https://raw.githubusercontent.com/wiki/ahmadrifai/python-image-processing/0005.jpg" alt="image" width="320" height="240">
+<img src="https://raw.githubusercontent.com/wiki/ahmadrifai/python-image-processing/0006.jpg" alt="image" width="320" height="240">
+<img src="https://raw.githubusercontent.com/wiki/ahmadrifai/python-image-processing/0008.jpg" alt="image" width="320" height="240">
+<img src="https://raw.githubusercontent.com/wiki/ahmadrifai/python-image-processing/0010.jpg" alt="image" width="320" height="240">
+<img src="https://raw.githubusercontent.com/wiki/ahmadrifai/python-image-processing/0009.png" alt="image" width="640" height="300">
 
 
 # Requirements
