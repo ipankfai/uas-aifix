@@ -39,7 +39,7 @@ $ git clone https://github.com/karaage0703/python-image-processing.git
 # Usage and Samples
 Go to Github pages.
 
-[github pages for image processing](https://karaage0703.github.io/python-image-processing)
+[github pages for image processing](https://ipankfai.github.io/python-image-processing)
 
 # License
 This software is released under the MIT License, see LICENSE.
