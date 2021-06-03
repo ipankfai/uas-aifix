@@ -33,13 +33,13 @@ $ pip install scipy
 ## Install(Clone) software
 Execute following command:
 ```sh
-$ git clone https://github.com/ipankfai/python-image-processing.git
+$ git clone https://github.com/AhmadRifai/python-image-processing.git
 ```
 
 # Usage and Samples
 Go to Github pages.
 
-[github pages for image processing](https://ipankfai.github.io/python-image-processing)
+[github pages for image processing](https://AhmadRifai.github.io/python-image-processing)
 
 # License
 This software is released under the MIT License, see LICENSE.
