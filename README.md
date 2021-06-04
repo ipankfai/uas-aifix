@@ -40,7 +40,7 @@ $ pip install scipy
 ## Install(Clone) software
 Execute following command:
 ```sh
-$ git clone https://github.com/karaage0703/python-image-processing.git
+$ git clone https://github.com/ipankfai/python-image-processing.git
 ```
 
 # Usage and Samples
